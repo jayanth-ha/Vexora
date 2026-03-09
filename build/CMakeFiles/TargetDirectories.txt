@@ -1,5 +1,0 @@
-/home/jayanth/projects/Vexora/build/CMakeFiles/vexora.dir
-/home/jayanth/projects/Vexora/build/CMakeFiles/vexora_tests.dir
-/home/jayanth/projects/Vexora/build/CMakeFiles/test.dir
-/home/jayanth/projects/Vexora/build/CMakeFiles/edit_cache.dir
-/home/jayanth/projects/Vexora/build/CMakeFiles/rebuild_cache.dir

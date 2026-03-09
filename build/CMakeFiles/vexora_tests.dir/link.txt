@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/vexora_tests.dir/tests/sample_test.cpp.o -o vexora_tests  vcpkg_installed/x64-linux/debug/lib/libgtest.a vcpkg_installed/x64-linux/debug/lib/manual-link/libgtest_main.a vcpkg_installed/x64-linux/debug/lib/libgtest.a 

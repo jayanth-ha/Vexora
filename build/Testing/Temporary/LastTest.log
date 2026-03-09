@@ -1,0 +1,29 @@
+Start testing: Mar 09 18:05 UTC
+----------------------------------------------------------
+1/1 Testing: vexora_tests
+1/1 Test: vexora_tests
+Command: "/home/jayanth/projects/Vexora/build/vexora_tests"
+Directory: /home/jayanth/projects/Vexora/build
+"vexora_tests" start time: Mar 09 18:05 UTC
+Output:
+----------------------------------------------------------
+Running main() from /home/jayanth/vcpkg/buildtrees/gtest/src/v1.17.0-0c449efaff.clean/googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BasicTest
+[ RUN      ] BasicTest.Addition
+[       OK ] BasicTest.Addition (0 ms)
+[----------] 1 test from BasicTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"vexora_tests" end time: Mar 09 18:05 UTC
+"vexora_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 09 18:05 UTC
